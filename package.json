@@ -1,0 +1,19 @@
+{
+  "name": "minerrewarddemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ensdomains/ensjs": "^4.0.0",
+    "alchemy-sdk": "^3.3.1",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "viem": "^2.20.0"
+  }
+}
